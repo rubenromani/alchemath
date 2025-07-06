@@ -60,6 +60,9 @@ frontend/out/
 # Claude Code
 .claude/
 
+# Data
+data/
+
 # OS
 .DS_Store
 .DS_Store?
